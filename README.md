@@ -90,5 +90,7 @@ Future Improvements
 * CRM synchronization
 * Order lookup
 * AI-powered ticket prioritization
-  **Ai Automation**
+  ## AI Automation
+  ![AI Automation](AiAuto.jpeg)
+  
   
